@@ -1,0 +1,7 @@
+development:
+  adapter: mysql2
+  database: bootstrap_dev
+  #~ pool: 5
+  username: root
+  password: root
+  	    
